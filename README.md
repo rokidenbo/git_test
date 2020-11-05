@@ -1,0 +1,1 @@
+This is Vi's first git project!
